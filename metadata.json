@@ -1,0 +1,7 @@
+{
+  "name": "ResponSiaga - Disaster Management System",
+  "description": "A comprehensive disaster management platform for rapid response coordination, real-time monitoring, and field reporting. Features role-based access for Admins, Field Officers, and Monitoring teams.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
